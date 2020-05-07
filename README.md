@@ -2,31 +2,30 @@
 > Network attacks prevent a business from operating. for example, ZOOM during corona event. 
 
 
-Malicious software (Malware) includes:
+>Malicious software (Malware) includes:
 • Virus
 • Worms
 • Trojan horses
 
-Goals:
+>Goals:
 • Destroy data
 • Corrupt data
 • Shutdown a network or system
 
-Ransomware:
+>Ransomware:
 Encrypts files, demands ransom for the key.
 Doesn't need to be reported as a breach, because no data was stolen.
 For example, Zoom.
 
-Firewalls: 
-Identify traffic on uncommon ports
+>Firewalls: 
+Identify traffic on uncommon ports.
 • Can block this type of attack, if your firewall
-filters outgoing traffic:
+filters outgoing traffic.
 • Windows Firewall in XP SP2, Vista, and Win 7 does not filter outgoing traffic by default
-• Trojan programs can use known ports to get
-through firewalls
-• HTTP (TCP 80) or DNS (UDP 53)
+• Trojan programs can use known ports to get through firewalls.
+• HTTP (TCP 80) or DNS (UDP 53).
 
-Botnets:
+>Botnets:
 A Botnet is a network of Internet devices (i.e. computers, mobile
 etc) that have been manipulated to carry out malicious activities.
 • The owners of such devices are often unaware of this.
